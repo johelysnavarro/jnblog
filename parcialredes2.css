@@ -1,0 +1,170 @@
+*
+header {
+    background-color: black;
+    color: white;
+    border-radius: 15px;
+    height: 88px;
+    margin-top: 15px;
+}
+
+.logo {
+    text-align: left;
+    height: 80px;
+    float: left;
+}
+
+.texthead {
+    font-family: 'Arial Rounded MT';
+    font-size: 18px;
+    border-radius: 10px;
+    text-align: right;
+}
+
+    .texthead h3 {
+        padding: 3px;
+    }
+
+    .texthead p {
+        font-size: 20px;
+        margin-bottom: 7px;
+        padding: 4px;
+    }
+nav {
+ 
+    background-color: darkred;
+    border-radius: 15px;
+    height: 40px;
+    margin-top: 10px;
+    text-align: center
+   
+}
+#iniciobttn {
+    text-decoration: none;
+    background-color: black;
+    border-radius: 15px;
+    margin: 10px 60px 10px 125px;
+    width: 120px;
+    height: 24px;
+    float: left;
+    font-family: 'Arial Rounded MT';
+    font-size: 14px;
+    color:white;
+
+}
+
+#bttnselect {
+    text-decoration: none;
+    background-color: white;
+    border-radius: 15px;
+    margin: 10px 60px 10px 125px;
+    width: 120px;
+    height: 24px;
+    float: left;
+    font-family: 'Arial Rounded MT';
+    font-size: 14px;
+    color:darkred;
+}
+.bttn {
+    text-decoration: none;
+    background-color: black;
+    border-radius: 15px;
+    margin: 10px 40px 10px 40px;
+    width: 120px;
+    height: 24px;
+    float: left;
+    font-family: 'Arial Rounded MT';
+    font-size: 14px;
+    color:white;
+}
+
+aside {
+    height: 500px;
+    width: 400px;
+    margin-top: 20px;
+    float: left;
+    font-family: 'Arial Rounded MT';
+    color:darkred;
+}
+
+    aside h1 {
+    font-family:'Century Gothic';
+    color:black;
+    }
+
+section {
+    height: 1290px;
+    width: 1220px;
+    margin-top: 50px;
+   
+}
+
+footer {
+    background-color: black;
+    color: white;
+    border-radius: 15px;
+    height:85px;
+    text-align:center;
+    font-family:Arial;
+    font-size:14px;
+}
+
+#historia {
+    background-color: #f9f9f9;
+    padding: 20px;
+    max-width: 600px;
+    border-radius: 10px;
+    font-family: 'Arial Rounded MT';
+    text-align: right;
+    overflow: scroll;
+    height: 500px;
+    margin-left: 600px;
+}
+
+    #historia h2 {
+        text-align: right;
+        color: #800000;
+        font-family:'Century Gothic';
+    }
+
+    #historia .intro,
+    #historia .conclusion {
+        text-align: right;
+        font-size: 16px;
+        margin-bottom: 20px;
+    }
+
+    #historia .evento {
+        padding: 8px 0;
+        font-size: 15px;
+        border-bottom: 1px solid #ddd;
+        text-align: right;
+    }
+
+.imglineadetiempo {
+    border-radius:5px; 
+    height:200px;
+
+}
+
+#leyendahistoria{
+    width:100%;
+    margin-top:35px;
+    text-align:justify;
+    font-size:20px;
+    font-family:'Arial Rounded MT';
+    color:black;
+}
+
+#leyendahistoria h1{
+    font-family:'Century Gothic';
+    text-align:center;
+    background-color:black;
+    color:white;
+    border-radius:8px;
+}
+
+.imgleyenda{
+    height:300px;
+    float:left;
+    margin:36px;
+}

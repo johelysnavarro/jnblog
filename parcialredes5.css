@@ -1,0 +1,153 @@
+*
+header {
+    background-color: black;
+    color: white;
+    border-radius: 15px;
+    height: 88px;
+    margin-top: 15px;
+}
+
+.logo {
+    text-align: left;
+    height: 80px;
+    float: left;
+}
+
+.texthead {
+    font-family: 'Arial Rounded MT';
+    font-size: 18px;
+    border-radius: 10px;
+    text-align: right;
+}
+
+    .texthead h3 {
+        padding: 3px;
+    }
+
+    .texthead p {
+        font-size: 20px;
+        margin-bottom: 7px;
+        padding: 4px;
+    }
+nav {
+ 
+    background-color: darkred;
+    border-radius: 15px;
+    height: 40px;
+    margin-top: 10px;
+    text-align: center
+   
+}
+#iniciobttn {
+    text-decoration: none;
+    background-color: black;
+    border-radius: 15px;
+    margin: 10px 60px 10px 125px;
+    width: 120px;
+    height: 24px;
+    float: left;
+    font-family: 'Arial Rounded MT';
+    font-size: 14px;
+    color:white;
+
+}
+
+#bttnselect {
+    text-decoration: none;
+    background-color: white;
+    border-radius: 15px;
+    margin: 10px 60px 10px 125px;
+    width: 120px;
+    height: 24px;
+    float: left;
+    font-family: 'Arial Rounded MT';
+    font-size: 14px;
+    color:darkred;
+}
+.bttn {
+    text-decoration:none;
+    background-color: black;
+    border-radius: 15px;
+    margin: 10px 40px 10px 40px;
+    width: 120px;
+    height: 24px;
+    float: left;
+    font-family: 'Arial Rounded MT';
+    font-size: 14px;
+    color:white;
+}
+
+aside {
+    height: 500px;
+    width: 400px;
+    float: right;
+    font-family: 'Arial Rounded MT';
+    text-align: center;
+    color:darkred;
+}
+
+aside p{
+    color:black;
+    text-align:justify;
+    font-family:cursive;
+}
+
+a{
+    text-decoration:none;
+    color:darkred;
+}
+
+.cuadrante-etica {
+    margin: 20px;
+}
+
+.etica-aside {
+    width: 220px;
+    background-color: #fff;
+    padding: 20px;
+    border-right: 2px;
+}
+
+    .etica-aside h2 {
+        margin-top: 0;
+        color: darkred;
+    }
+
+
+    .etica-aside li {
+        margin-bottom: 10px;
+    }
+
+.etica-section {
+    width: 820px;
+    background-color: #fff;
+    padding: 20px;
+}
+
+.nota {
+    margin-top: 20px;
+    font-style: italic;
+    background-color: #eee;
+    padding: 12px;
+    border-left: 5px;
+}
+
+section {
+    height: 500px;
+    width: 800px;
+    font-family: 'Century Gothic';
+    margin-top: 4px;
+}
+
+
+
+footer {
+    background-color: black;
+    color: white;
+    border-radius: 15px;
+    height:85px;
+    text-align:center;
+    font-family:Arial;
+    font-size:14px;
+}
+

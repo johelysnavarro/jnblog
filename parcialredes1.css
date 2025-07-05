@@ -1,0 +1,209 @@
+*
+header {
+    background-color: black;
+    color: white;
+    border-radius: 15px;
+    height: 88px;
+    margin-top:15px;
+}
+
+.logo {
+	text-align:left;
+	height:80px;
+    float:left;
+}
+
+.texthead {
+    font-family: 'Arial Rounded MT';
+    font-size: 18px;
+    border-radius:10px;
+    text-align:right;
+}
+
+.texthead h3{
+    padding:3px;
+}
+
+.texthead p{
+    font-size:20px;
+    margin-bottom:7px;
+    padding:4px;
+}
+
+nav {
+    background-color: darkred;
+    color: white;
+    border-radius: 15px;
+    height: 40px;
+    margin-top: 10px;
+    text-align: center
+}
+#iniciobttn {
+    text-decoration: none;
+    background-color: white;
+    border-radius: 15px;
+    margin: 10px 60px 10px 125px;
+    width: 120px;
+    height: 24px;
+    float: left;
+    font-family: 'Arial Rounded MT';
+    font-size: 14px;
+    color: darkred;
+}
+
+#bttnselect {
+    text-decoration: none;
+    background-color: white;
+    border-radius: 15px;
+    margin: 10px 60px 10px 125px;
+    width: 120px;
+    height: 24px;
+    float: left;
+    font-family: 'Arial Rounded MT';
+    font-size: 14px;
+    color: darkred;
+}
+
+.bttn {
+    text-decoration:none;
+    background-color: black;
+    border-radius: 15px;
+    margin: 10px 40px 10px 40px;
+    width: 120px;
+    height: 24px;
+    float: left;
+    font-family: 'Arial Rounded MT';
+    font-size: 14px;
+    color:white;
+}
+
+aside {
+    height: 1200px;
+    width: 400px;
+    margin-top: 20px;
+    float: left;
+    font-family: 'Arial Rounded MT';
+    color:darkred;
+    text-align:justify;
+
+}
+
+form {
+    display: flex;
+    gap: 12px;
+    flex-direction: column;
+    background-color: black;
+    color: whitesmoke;
+    padding: 20px;
+    border-radius: 10px;
+    font-family: 'Arial Rounded MT';
+}
+
+form h1{
+    margin:0px;
+}
+
+form p{ 
+    font-size:10px;
+    margin:0px;
+}
+
+section {
+    height:1200px;
+    width: 828px;
+}
+
+.galeriainicio {
+    height: 500px;
+    text-align: justify;
+    width: 828px;
+    margin-top: 23px;
+    margin-left: 415px;
+}
+
+    .galeriainicio img{
+        height: 180px;
+        border-radius: 10px;
+        margin:10px 10px 10px 28px;
+    }
+
+#iniciolect{
+    font-family:'Arial Unicode MS';
+    font-size:20px;
+    color:black;
+}
+
+.bloquecuadrante {
+    margin-left: 415px;
+    width: 828px;
+    height: 680px;
+}
+
+.cuadrante1 {
+    background-color: #f9f9f9;
+    border-radius: 10px;
+    width: 380px;
+    float: left;
+    margin: 10px;
+}
+
+.cuadrante1 p{
+    font-family: 'Arial Unicode MS';
+    text-align:justify;
+    color:black;
+}
+
+    .cuadrante1 h1 {
+        background-color: darkred;
+        text-align: center;
+        font-family: 'Arial Rounded MT';
+        color:white;
+        border-radius:5px;
+    }
+
+.cuadrante1 img{
+    width:321px;
+    height:280px;
+    margin:50px 40px 10px 40px;
+    border-radius:5px;
+
+}
+
+.cuadrante2 {
+    background-color: #f9f9f9;
+    border-radius: 10px;
+    width: 380px;
+    float: left;
+    margin: 10px;
+}
+
+    .cuadrante2 h1 {
+        background-color: darkred;
+        text-align: center;
+        font-family: 'Arial Rounded MT';
+        color: white;
+        border-radius: 5px;
+    }
+
+    .cuadrante2 p {
+        font-family: 'Arial Unicode MS';
+        text-align: justify;
+        color: black;
+    }
+
+    .cuadrante2 img {
+        width: 321px;
+        height: 280px;
+        margin: 10px 40px 10px 40px;
+        border-radius: 5px;
+    }
+
+footer {
+    background-color: black;
+    color: white;
+    border-radius: 15px;
+    height:85px;
+    text-align:center;
+    font-family:Arial;
+    font-size:14px;
+}

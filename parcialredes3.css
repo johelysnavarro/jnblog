@@ -1,0 +1,164 @@
+*
+header {
+    background-color: black;
+    color: white;
+    border-radius: 15px;
+    height: 88px;
+    margin-top: 15px;
+}
+
+.logo {
+    text-align: left;
+    height: 80px;
+    float: left;
+}
+
+.texthead {
+    font-family: 'Arial Rounded MT';
+    font-size: 18px;
+    border-radius: 10px;
+    text-align: right;
+}
+
+    .texthead h3 {
+        padding: 3px;
+    }
+
+    .texthead p {
+        font-size: 20px;
+        margin-bottom: 7px;
+        padding: 4px;
+    }
+nav {
+ 
+    background-color: darkred;
+    border-radius: 15px;
+    height: 40px;
+    margin-top: 10px;
+    text-align: center
+   
+}
+#iniciobttn {
+    text-decoration: none;
+    background-color: black;
+    border-radius: 15px;
+    margin: 10px 60px 10px 125px;
+    width: 120px;
+    height: 24px;
+    float: left;
+    font-family: 'Arial Rounded MT';
+    font-size: 14px;
+    color:white;
+
+}
+
+#bttnselect {
+    text-decoration: none;
+    background-color: white;
+    border-radius: 15px;
+    margin: 10px 60px 10px 125px;
+    width: 120px;
+    height: 24px;
+    float: left;
+    font-family: 'Arial Rounded MT';
+    font-size: 14px;
+    color:darkred;
+}
+.bttn {
+    text-decoration:none;
+    background-color: black;
+    border-radius: 15px;
+    margin: 10px 40px 10px 40px;
+    width: 120px;
+    height: 24px;
+    float: left;
+    font-family: 'Arial Rounded MT';
+    font-size: 14px;
+    color:white;
+}
+
+aside {
+    height: 600px;
+    width: 400px;
+    margin-top: 20px;
+    float: right;
+    font-family: 'Arial Rounded MT';
+    color: darkred;
+    text-align: right;
+}
+
+#opiniones {
+    margin-top: 10px;
+    height: 490px;
+    width: 1230px;
+}
+
+    #opiniones h1 {
+        text-align: center;
+        background-color:darkred;
+        border-radius:5px;
+        color:white;
+    }
+
+    #opiniones p {
+        text-align: justify;
+    }
+
+.cursivatext {
+    font-family: cursive;
+    color:black;
+}
+    aside h1 {
+    font-family:'Century Gothic';
+    color:black;
+    text-align:center;
+    }
+
+section {
+    height: 1000px;
+    width: 800px;
+    font-family:'Century Gothic';
+
+}
+
+
+   
+#aplicaley {
+    height: 600px;
+    width: 800px;
+    margin-right: 400px;
+    margin-top: 23px;
+    background-color: #f9f9f9;
+    text-align:left;
+    overflow:scroll;
+}
+
+    #aplicaley h1 {
+        font-family: 'Century Gothic';
+        color: black;
+        border-style:solid;
+        border-color:darkred;
+        border-radius: 5px;
+        text-align: center;
+        font-size: 17px;
+    }
+
+    #aplicaley p {
+    font-family: 'Arial Rounded MT';
+    color: black;
+    font-size: 15px;
+}
+
+ 
+
+
+
+footer {
+    background-color: black;
+    color: white;
+    border-radius: 15px;
+    height:85px;
+    text-align:center;
+    font-family:Arial;
+    font-size:14px;
+}
